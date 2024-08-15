@@ -9,7 +9,7 @@ Logic::Logic() {
 }
 
 Logic::~Logic() {
-    std::cout << "Logic::Logic()" << std::endl;
+    std::cout << "Logic::~Logic()" << std::endl;
 }
 
 void Logic::invoke() {
